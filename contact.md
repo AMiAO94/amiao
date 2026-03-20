@@ -13,4 +13,4 @@ Philippe Desprats : [philippe.desprats@wanadoo.fr](mailto:philippe.desprats@wana
 
 Gérard Paresys : [gerard.paresys@free.fr](mailto:gerard.paresys@free.fr)
 
-Jean-Yves Colliaux : [jyixx](mailto:jyixx@proton.me) 
+Jean-Yves Colliaux : [jyixx@proton.me](mailto:jyixx@proton.me) 
