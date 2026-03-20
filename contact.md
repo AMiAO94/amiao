@@ -3,7 +3,7 @@ title: "Contact"
 order: 4
 in_menu: true
 ---
-L'Échappée Belle est actuellement composée de 6 membres.
+L'AMiAO est actuellement composée de 4 membres.
 
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
-`
+Pour nous contacter : [amiao1@free.fr](amiao1@free.fr)
+` 
