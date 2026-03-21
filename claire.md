@@ -1,6 +1,6 @@
 ---
 title: "Claire"
-order: 6
+order: 1
 in_menu: true
 ---
 la suite 

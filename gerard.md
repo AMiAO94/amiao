@@ -1,6 +1,5 @@
 ---
 title: "Gérard"
-order: 8
+order: 2
 in_menu: true
 ---
- 

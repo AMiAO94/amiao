@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-order: 4
+order: 5
 in_menu: true
 ---
 L'AMiAO est actuellement composée de 4 membres.
