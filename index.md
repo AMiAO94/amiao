@@ -8,4 +8,4 @@ in_menu: true
 L'AMiAO...   
    
 
-![Texte décrivant l'image]({% link images/guepe fd ecran.jpg %}) 
+![Guepe]({% link images/guepe fd ecran.jpg %}) 
