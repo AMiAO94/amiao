@@ -12,5 +12,5 @@ Une video:
 
 Une autre video: 
 <video controls width="100%">
-<source src="video/EEG.MP4.mp4" type="video/mp4" />
+<source src="video/EEG.MP4" type="video/mp4" />
 </video> 
