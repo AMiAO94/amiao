@@ -14,3 +14,8 @@ Une autre video : EEG.MP4
 <video controls width="100%">
 <source src="video/EEG.MP4" type="video/mp4" />
 </video> 
+
+La video modifiée : EEG-Modif.MP4
+<video controls width="100%">
+<source src="video/EEG-Modif.MP4" type="video/mp4" />
+</video> 
