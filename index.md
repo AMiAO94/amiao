@@ -9,4 +9,4 @@ L'AMiAO...
    
 Association des Musiques impromptues Assistées par Ordinateur.
 
-![AMiAOistes.jpg %}) 
+![photo des amiaostes]({% link images/les 4 AMiAOistes.jpg %}) 
